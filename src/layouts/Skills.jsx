@@ -24,9 +24,19 @@ const mySkills = [
     width: "w-[90%]",
   },
   {
+    title: "Typescript",
+    percent: "80%",
+    width: "w-[80%]",
+  },
+  {
     title: "React JS",
     percent: "90%",
     width: "w-[90%]",
+  },
+  {
+    title: "Redux",
+    percent: "85%",
+    width: "w-[85%]",
   },
   {
     title: "Node JS/Express JS/ MongoDB",
