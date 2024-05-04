@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ajay-tiwari/static/css/main.a63eb314.css",
-    "main.js": "/ajay-tiwari/static/js/main.71c47576.js",
+    "main.css": "/ajay-tiwari/static/css/main.ec4be04f.css",
+    "main.js": "/ajay-tiwari/static/js/main.e369c449.js",
     "static/media/cinema1.png": "/ajay-tiwari/static/media/cinema1.f980a43f20085c1bb270.png",
     "static/media/hotel.png": "/ajay-tiwari/static/media/hotel.740927dc90a5b317c71b.png",
     "static/media/cinema2.png": "/ajay-tiwari/static/media/cinema2.3c4b09fb5f1319b727f8.png",
@@ -35,11 +35,11 @@
     "static/media/my-resume.pdf": "/ajay-tiwari/static/media/my-resume.2fbe4c4fe94bb2fde059.pdf",
     "static/media/faq.png": "/ajay-tiwari/static/media/faq.af3e9845f0097bec3fee.png",
     "index.html": "/ajay-tiwari/index.html",
-    "main.a63eb314.css.map": "/ajay-tiwari/static/css/main.a63eb314.css.map",
-    "main.71c47576.js.map": "/ajay-tiwari/static/js/main.71c47576.js.map"
+    "main.ec4be04f.css.map": "/ajay-tiwari/static/css/main.ec4be04f.css.map",
+    "main.e369c449.js.map": "/ajay-tiwari/static/js/main.e369c449.js.map"
   },
   "entrypoints": [
-    "static/css/main.a63eb314.css",
-    "static/js/main.71c47576.js"
+    "static/css/main.ec4be04f.css",
+    "static/js/main.e369c449.js"
   ]
 }
