@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/ajay-tiwari/static/css/main.28667d2c.css",
-    "main.js": "/ajay-tiwari/static/js/main.858d68a9.js",
+    "main.css": "/ajay-tiwari/static/css/main.a63eb314.css",
+    "main.js": "/ajay-tiwari/static/js/main.71c47576.js",
+    "static/media/cinema1.png": "/ajay-tiwari/static/media/cinema1.f980a43f20085c1bb270.png",
     "static/media/hotel.png": "/ajay-tiwari/static/media/hotel.740927dc90a5b317c71b.png",
+    "static/media/cinema2.png": "/ajay-tiwari/static/media/cinema2.3c4b09fb5f1319b727f8.png",
     "static/media/moon.png": "/ajay-tiwari/static/media/moon.ace47db82a0add161970.png",
     "static/media/scaffold.png": "/ajay-tiwari/static/media/scaffold.189c87b6cf18a1dd18ca.png",
     "static/media/time9.png": "/ajay-tiwari/static/media/time9.e1ceacc6dd48914756d6.png",
@@ -10,6 +12,7 @@
     "static/media/time10.png": "/ajay-tiwari/static/media/time10.6c7d13a6eab15722dc78.png",
     "static/media/company.png": "/ajay-tiwari/static/media/company.6b76ff1af78e2a2bd9d3.png",
     "static/media/stock-graph.png": "/ajay-tiwari/static/media/stock-graph.84f5a74b19b1f022b276.png",
+    "static/media/cinema3.png": "/ajay-tiwari/static/media/cinema3.b4fc08521d7b391bc7b7.png",
     "static/media/quartz.png": "/ajay-tiwari/static/media/quartz.d5316f6c8b2515ce82f0.png",
     "static/media/time5.png": "/ajay-tiwari/static/media/time5.abeb237ea83ef2a2aca4.png",
     "static/media/stock5.png": "/ajay-tiwari/static/media/stock5.3dab33870c054d7c48c0.png",
@@ -22,17 +25,21 @@
     "static/media/stock8.png": "/ajay-tiwari/static/media/stock8.822b11a8dd5c9236b904.png",
     "static/media/time7.png": "/ajay-tiwari/static/media/time7.34fdadd360cf2beea11f.png",
     "static/media/time8.png": "/ajay-tiwari/static/media/time8.c9cd9ad7b285bf6c3508.png",
+    "static/media/booking3.png": "/ajay-tiwari/static/media/booking3.c1e05cbc75dac3a12759.png",
     "static/media/abin.jpg": "/ajay-tiwari/static/media/abin.ff42e7550df6c0cf30e4.jpg",
     "static/media/macbook.jpg": "/ajay-tiwari/static/media/macbook.55f2cb3bb1a839af9f11.jpg",
     "static/media/web-developer.jpg": "/ajay-tiwari/static/media/web-developer.171ca4fc498585dbea53.jpg",
-    "static/media/my-resume.pdf": "/ajay-tiwari/static/media/my-resume.798045c5bc28b4ed568a.pdf",
+    "static/media/booking2.png": "/ajay-tiwari/static/media/booking2.26cea9ea45d6a98460a6.png",
+    "static/media/booking4.png": "/ajay-tiwari/static/media/booking4.c558b41fba728459cd54.png",
+    "static/media/booking1.png": "/ajay-tiwari/static/media/booking1.ea55adeb283d5af668ee.png",
+    "static/media/my-resume.pdf": "/ajay-tiwari/static/media/my-resume.2fbe4c4fe94bb2fde059.pdf",
     "static/media/faq.png": "/ajay-tiwari/static/media/faq.af3e9845f0097bec3fee.png",
     "index.html": "/ajay-tiwari/index.html",
-    "main.28667d2c.css.map": "/ajay-tiwari/static/css/main.28667d2c.css.map",
-    "main.858d68a9.js.map": "/ajay-tiwari/static/js/main.858d68a9.js.map"
+    "main.a63eb314.css.map": "/ajay-tiwari/static/css/main.a63eb314.css.map",
+    "main.71c47576.js.map": "/ajay-tiwari/static/js/main.71c47576.js.map"
   },
   "entrypoints": [
-    "static/css/main.28667d2c.css",
-    "static/js/main.858d68a9.js"
+    "static/css/main.a63eb314.css",
+    "static/js/main.71c47576.js"
   ]
 }
