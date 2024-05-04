@@ -23,7 +23,7 @@ const AboutMe = () => {
           </div>
           <div className="mt-6 text-xl leading-loose">
             <p>
-              I'm a react developer with a passion for software development on
+              I'm a full stack developer with a passion for software development on
               web platform. I enjoy developing simple, clean and slick webapps
               and websites that provide real value to the end user. The number
               of clients have procured exceptional results while working with
@@ -57,7 +57,7 @@ const AboutMe = () => {
           introValue="ajax42399@gmail.com"
           emailClass="underline"
         />
-        <Intro introHead="Date of birth:" introValue="05 December, 1999" />
+        <Intro introHead="Date of birth:" introValue="05 December, 2001" />
         <Intro introHead="From:" introValue="Sunwal-13, Nawalparasi" />
       </MotionWrapper>
     </div>

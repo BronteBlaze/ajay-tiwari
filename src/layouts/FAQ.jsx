@@ -6,7 +6,7 @@ import MotionWrapper from "../components/MotionWrapper";
 const faqs = [
   {
     quest: "Who am I?",
-    ans: "I'm a passionate and enthusiastic web developer experienced in a react framework.",
+    ans: "I'm a passionate and enthusiastic software developer experienced in MERN Stack.",
   },
   {
     quest: "How can I help you?",
@@ -14,11 +14,11 @@ const faqs = [
   },
   {
     quest: "What is my goal?",
-    ans: "My goal is to work as a MERN Stack Developer in the upcoming days.",
+    ans: "My main goal is to build a best software that provides a full satisfaction to the user.",
   },
   {
-    quest: "Can I work in Back-End?",
-    ans: "Yes, I have a basic knowledge in NodeJS, ExpressJS and MongoDB, which I can use to assist the senior level backend developer in a project.",
+    quest: "What type of project have I done in a recent time?",
+    ans: "I have built a gaming lounge reservation system with a private chatting feature between user and admin.",
   },
 ];
 

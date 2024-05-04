@@ -7,7 +7,7 @@ const myEducation = [
     heading: "Bachelor of Computer Application",
     companyAndTime:
       "Oxford College of Engineering and Management / 2021 - present",
-    desc: "Currently studying BCA in 5th semester. 1st semester topper of pokhara university with 4.0/4.0 GPA.",
+    desc: "Currently studying BCA in 6th semester. 1st semester topper of pokhara university with 4.0/4.0 GPA.",
   },
   {
     heading: "10+2 Science",
@@ -17,6 +17,11 @@ const myEducation = [
 ];
 
 const myExperience = [
+  {
+    heading: "Full Stack MERN Developer",
+    companyAndTime: "FreeLancer / 2023 - present",
+    desc: "Working as a MERN Stack web developer as a freelancer now.",
+  },
   {
     heading: "Sr. React Developer",
     companyAndTime: "TechMonkeys Pvt. Ltd / 2022 - 2023",

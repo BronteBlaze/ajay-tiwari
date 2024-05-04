@@ -20,18 +20,28 @@ const mySkills = [
   },
   {
     title: "Javascript",
+    percent: "90%",
+    width: "w-[90%]",
+  },
+  {
+    title: "React JS",
+    percent: "90%",
+    width: "w-[90%]",
+  },
+  {
+    title: "Node JS/Express JS/ MongoDB",
     percent: "80%",
     width: "w-[80%]",
   },
   {
-    title: "React JS",
-    percent: "85%",
-    width: "w-[85%]",
+    title: "SQL",
+    percent: "80%",
+    width: "w-[80%]",
   },
   {
-    title: "Node JS/Express JS/ MongoDB",
-    percent: "60%",
-    width: "w-[60%]",
+    title: "Linux",
+    percent: "75%",
+    width: "w-[75%]",
   },
 ];
 

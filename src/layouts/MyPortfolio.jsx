@@ -22,7 +22,13 @@ import ErpImage from "../components/project/ErpImage";
 import ProjectImage from "../components/project/ProjectImage";
 import MotionWrapper from "../components/MotionWrapper";
 import { motion } from "framer-motion";
-
+import cinema1 from "../assets/cinema/cinema1.png";
+import cinema2 from "../assets/cinema/cinema2.png";
+import cinema3 from "../assets/cinema/cinema3.png";
+import booking1 from "../assets/booking/booking1.png";
+import booking2 from "../assets/booking/booking2.png";
+import booking3 from "../assets/booking/booking3.png";
+import booking4 from "../assets/booking/booking4.png";
 const portfolioProjects = [
   {
     name: "erp",
@@ -36,7 +42,7 @@ const portfolioProjects = [
     tech: "ReactJS, ExpressJS, NodeJS, MongoDB",
     industry: "Hotel & Cafe",
     date: "August 10, 2023",
-    url: "https://sunil-gurung.netlify.app/",
+    url: "https://my-erp.netlify.app/",
   },
   {
     name: "timesaver",
@@ -51,6 +57,34 @@ const portfolioProjects = [
     industry: "Technical Shop",
     date: "September 12, 2023",
     url: "Only Front-End Complete",
+  },
+  {
+    name: "cinema", 
+    title: "Ticketing System",
+    images: [cinema1,cinema2, cinema3],
+    filter: "Webapps",
+    swiperImages: [cinema1, cinema2],
+    project_info:
+      "This is the software for booking cinema ticket online",
+    client: "INI Cinema",
+    tech: "ReactJS, Django, MySQL",
+    industry: "Cinema Hall",  
+    date: "July 12, 2023",
+    url: "https://inicinemas.com/",
+  },
+  {
+    name: "cinema", 
+    title: "Booking System",
+    images: [booking2, booking1, booking3, booking4],
+    filter: "Webapps",
+    swiperImages: [booking4, booking2, booking3, booking2],
+    project_info:
+      "This is the software for place a booking for playing video games in gaming Lounge. It also includes private end-to-end chatting feature between user and admin",
+    client: "Prasun Dahal",
+    tech: "ReactJS, ExpressJS, NodeJS, MongoDB, Socket.IO",
+    industry: "Gaming Lounge",  
+    date: "January 21, 2024",
+    url: "https://github.com/BronteBlaze/BookingPlatform",
   },
   {
     name: "charitee",
@@ -187,7 +221,7 @@ const MyPortfolio = () => {
         {showOption.All && (
           <div className="grid gap-16 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-6 mt-12">
             {portfolioProjects.map((project, index) => {
-              return project.name === "erp" ? (
+              return project.name === "erp" || project.name==="cinema" ? (
                 <MotionWrapper key={index}>
                   <motion.div
                     initial={{ scale: 0.2, opacity: 0 }}
@@ -236,7 +270,7 @@ const MyPortfolio = () => {
             {portfolioProjects.map((project, index) => {
               return (
                 project.filter === "Webapps" &&
-                (project.name === "erp" ? (
+                (project.name === "erp" || project.name==="cinema" ? (
                   <MotionWrapper key={index}>
                     <motion.div
                       initial={{ scale: 0.2, opacity: 0 }}

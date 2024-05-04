@@ -27,7 +27,7 @@ const allServices = [
     icon: <HiMiniComputerDesktop />,
     service: "Backend Programming",
     serviceText:
-      "Can assist backend developer to write a code for server using NODE JS",
+      "Can implement a backend server using NODE JS and EXPRESS JS",
   },
   {
     icon: <FaPaintbrush />,

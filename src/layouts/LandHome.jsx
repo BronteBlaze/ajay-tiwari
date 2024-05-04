@@ -172,7 +172,7 @@ const LandHome = ({ offSet }) => {
             transition={{ opacity: { duration: 1 } }}
           >
             <div className="xl:text-5xl text-4xl font-thin text-gray-700">
-              <h2>HI, I'M A REACT DEVELOPER</h2>
+              <h2>HI, I'M A FULLSTACK DEVELOPER</h2>
             </div>
             <div className="xl:text-8xl md:text-7xl text-5xl font-semibold mt-6 text-gray-800">
               <Typewriter
