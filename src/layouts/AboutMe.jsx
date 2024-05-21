@@ -54,7 +54,7 @@ const AboutMe = () => {
         <Intro introHead="Name:" introValue="Ajay Tiwari" />
         <Intro
           introHead="Email:"
-          introValue="ajax42399@gmail.com"
+          introValue="blazebronte@gmail.com"
           emailClass="underline"
         />
         <Intro introHead="Date of birth:" introValue="05 December, 2001" />
